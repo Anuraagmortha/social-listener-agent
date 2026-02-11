@@ -51,7 +51,7 @@ Search (Reddit + Web)
 ## Prerequisites
 
 - Python 3.10+
-- Reddit API credentials — [create a Reddit app here](https://www.reddit.com/prefs/apps) (select "script" type)
+- Reddit API credentials — [create a Reddit app here](https://www.reddit.com/prefs/apps)
 - OpenAI API key — [get one here](https://platform.openai.com/api-keys)
 
 ## Setup
@@ -167,7 +167,3 @@ Results are saved to `output/` with timestamps:
 | 50-79 | Discussing the topic, sharing experience, might benefit from guidance |
 | 25-49 | Tangentially related, general discussion |
 | 0-24 | Not relevant, spam, or already resolved |
-
-## License
-
-MIT
