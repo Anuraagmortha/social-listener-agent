@@ -1,0 +1,33 @@
+keywords:
+  - "GRE preparation tips"
+  - "TOEFL score requirements"
+  - "study abroad from India"
+  - "US university scholarships international students"
+  - "F1 student visa process"
+
+subreddits:
+  - indianstudents
+  - Indian_Academia
+  - studyAbroad
+  - GRE
+  - ToesFL
+  - gradadmissions
+  - IntltoUSA
+  - ApplyingToCollege
+  - scholarships
+
+geos:
+  - india
+  - usa
+  - uae
+
+sources:
+  - reddit
+  - web
+
+min_intent_score: 25
+max_results: 20
+
+openai_model: "gpt-4o-mini"
+
+max_refinement_iterations: 3

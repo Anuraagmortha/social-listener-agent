@@ -1,0 +1,9 @@
+praw
+openai
+pyyaml
+python-dotenv
+requests
+beautifulsoup4
+ddgs
+streamlit
+pandas
